@@ -1,1 +1,1 @@
-# ClassPractice
+print("lmfao")
